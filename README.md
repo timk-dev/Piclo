@@ -2,6 +2,21 @@
 ![Piclo](https://github.com/timk-dev/Piclo/blob/main/postfeed.jpeg?raw=true)
 ![Piclo](https://github.com/timk-dev/Piclo/blob/main/creataccount.jpeg?raw=true)
 ![Piclo](https://github.com/timk-dev/Piclo/blob/main/login.jpeg?raw=true)
+
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/accountpics.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/accountposts.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/friended.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/imgpost.jpeg?raw=true)
+
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/makepost.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/makepostimg.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/otheraccount.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/search.jpeg?raw=true)
+
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/searchedusers.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/updates.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/useraccount.jpeg?raw=true)
+
 # Piclo
 
 🥘 Piclo – Your Digital Social Club
