@@ -1,5 +1,7 @@
 ![Piclo](https://github.com/timk-dev/Piclo/blob/main/picfeed.jpeg?raw=true)
 ![Piclo](https://github.com/timk-dev/Piclo/blob/main/postfeed.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/createaccount.jpeg?raw=true)
+![Piclo](https://github.com/timk-dev/Piclo/blob/main/login.jpeg?raw=true)
 # Piclo
 
 🥘 Piclo – Your Digital Social Club
